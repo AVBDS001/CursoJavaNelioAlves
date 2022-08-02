@@ -10,6 +10,7 @@ Exercicios do curso de Java
     </ul>
     <li>Desafio do produto no estoque</li>
     <ul>
-        <li>Esse desafio serve para que a gente se familiarize com os objetos</li>
+        <li>Esse desafio serve para que a gente se familiarize com os objetos, eu acabei colocando o nome como Pratica_Testes sem querer mas é nesse arquivo que está a               parte principal do programa</li>
+        <li>Esse desafio foi feito em sala de aula</li>
     </ul>
  </ul>
