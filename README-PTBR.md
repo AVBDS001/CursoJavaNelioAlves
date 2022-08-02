@@ -17,7 +17,7 @@ Exercicios do curso de Java
     <br>
     <li>Conta Bancária</li>
     <ul>
-        <li>Esse desafio também faz parte da introdução a objetos em java, nesse daí eu criei uma conta bancária como proposto no exerci</li>
+        <li>Esse desafio também faz parte da introdução a objetos em java, nesse daí eu criei uma conta bancária como proposto no exercio</li>
         <li>A classe Account é onde estão todos os métodos e a instanciação do objeto account</li>
         <li>Já a classe Conta Bancária é aonde está o programa principal</li>
         <li>A classe Account está no pacote entities e ContaBancaria está no pacote application</li>
