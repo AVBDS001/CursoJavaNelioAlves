@@ -1,6 +1,10 @@
 # Exercicios-CursoJava-Nelio-Alves
 Exercicios do curso de Java
+<body>
+<header>
 <h1> Nessa pasta estão os desafios e exercicíos práticos do curso de JAVA do Nelio Alves </h1>
+</header>
+
 
 <ul>
     <li>Desafio Juros</li>
@@ -21,4 +25,12 @@ Exercicios do curso de Java
         <li>A classe Account é onde estão todos os métodos e a instanciação do objeto account</li>
         <li>Já a classe Conta Bancária é aonde está o programa principal</li>
         <li>A classe Account está no pacote entities e ContaBancaria está no pacote application</li>
+    </ul>
+    <br>
+    <li>Area</li>
+       <ul>
+           <li>Esse desafio é bem simples é só criar um programa que calcula a área de um retângulo e mostra essa área na tela, tem isso lá no capitulo de introdução a objetos também</li>
+           <li>O arquivo Area está no pacote application e o arquivo Rectangle está no pacote entities</li>
+       </ul>
  </ul>
+</body>
