@@ -32,5 +32,11 @@ Exercicios do curso de Java
            <li>Esse desafio é bem simples é só criar um programa que calcula a área de um retângulo e mostra essa área na tela, tem isso lá no capitulo de introdução a objetos também</li>
            <li>O arquivo Area está no pacote application e o arquivo Rectangle está no pacote entities</li>
        </ul>
+    <li>Salary</li>
+       <ul>
+           <li>Nesse exercicío ele pede para fazer um programa que calcula os dados de um funcionário, em seguida mostra os dados e calcula o aumento do salário dos funcionários</li>
+           <li>Salary fica no package application</li>
+           <li>Worker fica no package entities e é a classe que instância o objeto worker e seus métodos</li>
+       </ul>
  </ul>
 </body>
