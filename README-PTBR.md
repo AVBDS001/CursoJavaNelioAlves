@@ -38,5 +38,10 @@ Exercicios do curso de Java
            <li>Salary fica no package application</li>
            <li>Worker fica no package entities e é a classe que instância o objeto worker e seus métodos</li>
        </ul>
+    <li>Conta Bancária2 06/08/2022</li>
+        <ul>
+            <li>Esse exercício faz parte da aula de encapsulamento, a solução que eu postei aqui no git é minha solução mesmo, não está igual a solução do professor mas funciona, porém há alguns erros em relação a brechas para modificação do programa</li>
+            <li>A partir daqui vou colocar a data do lado dos exercicios, mesmo que o git já faça isso. Estou aprendendo a usa-lo ainda.</li>
+        </ul>
  </ul>
 </body>
