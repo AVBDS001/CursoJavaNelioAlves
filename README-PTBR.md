@@ -32,16 +32,19 @@ Exercicios do curso de Java
            <li>Esse desafio é bem simples é só criar um programa que calcula a área de um retângulo e mostra essa área na tela, tem isso lá no capitulo de introdução a objetos também</li>
            <li>O arquivo Area está no pacote application e o arquivo Rectangle está no pacote entities</li>
        </ul>
+    <br>
     <li>Salary</li>
        <ul>
            <li>Nesse exercicío ele pede para fazer um programa que calcula os dados de um funcionário, em seguida mostra os dados e calcula o aumento do salário dos funcionários</li>
            <li>Salary fica no package application</li>
            <li>Worker fica no package entities e é a classe que instância o objeto worker e seus métodos</li>
        </ul>
+    <br>
     <li>Conta Bancária2 06/08/2022</li>
         <ul>
             <li>Esse exercício faz parte da aula de encapsulamento, a solução que eu postei aqui no git é minha solução mesmo, não está igual a solução do professor mas funciona, porém há alguns erros em relação a brechas para modificação do programa</li>
             <li>A partir daqui vou colocar a data do lado dos exercicios, mesmo que o git já faça isso. Estou aprendendo a usa-lo ainda.</li>
         </ul>
+     <br>
  </ul>
 </body>
