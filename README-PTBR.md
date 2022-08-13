@@ -60,5 +60,10 @@ e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativ
         <li>Então o programa irá ler o nome, idade e altura da pessoa e exibir na tela uma média das alturas digitadas como entrada e a porcetangem de pessoas menores de 18 anos dentro do array, exibindo seus nomes.</li>
     </ul>
     <br>
+    <li><strong>Maior Idade</strong></li>
+    <ul>
+        <li>Nesse programa é pedido para armazenar as idades e os nomes de certas pessoas em seus respectivos arrays e mostrar na tela qual a idade da pessoa mais velha e qual seu nome</li>
+        <li>Dica: para fazer esse exercicío é bom que você tenha feito o exercício do maior número.</li>
+    </ul>
  </ul>
 </body>
