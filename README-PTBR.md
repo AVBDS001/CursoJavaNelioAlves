@@ -65,5 +65,11 @@ e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativ
         <li>Nesse programa é pedido para armazenar as idades e os nomes de certas pessoas em seus respectivos arrays e mostrar na tela qual a idade da pessoa mais velha e qual seu nome</li>
         <li>Dica: para fazer esse exercicío é bom que você tenha feito o exercício do maior número.</li>
     </ul>
+    <br>
+    <li><strong>Alunos Aprovados</strong></li>
+    <ul>
+        <li>Esse exercicío pede para criar um programa que leia a quantidade de alunos que serão avaliados leia suas notas e a partir daí calcula as suas medias e verifique se os alunos serão aprovados ou não.</li>
+        <li>Apesar de ser um programa simples da para usar ele lá no site.</li>
+    </ul>
  </ul>
 </body>
