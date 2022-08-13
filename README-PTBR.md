@@ -52,5 +52,13 @@ Exercicios do curso de Java
         <li>Enunciado do problema: Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros
 e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos.</li>
     </ul>
+    <br>
+    <li><strong>Alturas</strong></li>
+    <ul>
+        <li>Esse exercicío é do ínicio da parte de arrays</li>
+        <li>Ele pede para criar um programa que peça uma entrada de quantas pessoas serão armazenadas no array.</li>
+        <li>Então o programa irá ler o nome, idade e altura da pessoa e exibir na tela uma média das alturas digitadas como entrada e a porcetangem de pessoas menores de 18 anos dentro do array, exibindo seus nomes.</li>
+    </ul>
+    <br>
  </ul>
 </body>
